@@ -22,7 +22,7 @@ RUN apt-get update && apt-get install -yq --no-install-recommends \
         vim \
         texlive-xetex \
         texlive-fonts-recommended \
-        texlive-generic-recommended \
+        texlive-plain-generic \
         pandoc \
         sudo \
         netbase \
